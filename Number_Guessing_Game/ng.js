@@ -1,4 +1,3 @@
-d files with 9 a
 let num = Math.floor(Math.random() * 100) + 1;
 let guesses = [];
 let score = 0;
