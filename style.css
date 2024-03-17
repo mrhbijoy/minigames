@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: lightgrey;
     margin: 0;
     padding: 0;
 }
@@ -9,8 +9,11 @@ body {
         .container {
             width: 80%;
             margin: auto;
-            overflow: hidden;
-        }
+            overflow: hidden;}
+
+        
+        
+
 
         header {
             background: #50b3a2;
@@ -60,4 +63,4 @@ body {
             color: #cccccc;
             font-weight: bold;
         }
-   
+       
