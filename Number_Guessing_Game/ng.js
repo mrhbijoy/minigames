@@ -12,11 +12,11 @@ document
     if (guesses.includes(num2)) {
       document.getElementById("message").innerText =
         "You already guessed that number";
-    } else {
+    } else if {
       guesses.push(num2);
       document.getElementById("guessesMade").innerText =
             "Your guesses: " + guesses.join(", ");
-    if (num2 == num) {
+  else if (num2 == num) {
                 document.getElementById("message").innerText =
                   "Congratulations! You guessed the number";
               }
